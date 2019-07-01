@@ -15,3 +15,6 @@ Open file in your browser of choice
 HTML <br>
 GitBash <br>
 Atom
+
+### Legal
+Copyright (c) 2019 Stephanie Podolak
